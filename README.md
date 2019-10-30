@@ -1,4 +1,4 @@
 # House-Manager
-Cost cutting
-marketing
-Organsing activity and event
+Cost cutting in expenses
+marketing for buying household
+Organsing activity and event-function
